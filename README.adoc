@@ -7,7 +7,7 @@ This repository contains the user-facing documentation for the AsciiDoc(R) langu
 You can view the {url-docs}[published version] online.
 This documentation has been submitted as the initial contribution for the {url-asciidoc-lang}[AsciiDoc Language(TM) project at Eclipse].
 
-== Publishing
+== Publishing edited
 
 This repository only contains the documentation source files and assets.
 The documentation is published {url-docs}[online] for reading.
