@@ -1,3 +1,5 @@
+Just a minor edit.
+
 = AsciiDoc Language Documentation
 :url-org: https://github.com/asciidoctor
 :url-asciidoc-lang: https://projects.eclipse.org/projects/technology.asciidoc
