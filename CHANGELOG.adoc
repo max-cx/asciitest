@@ -2,5 +2,4 @@
 
 See link:docs/CHANGELOG.adoc[CHANGELOG].
 
-change1
-change2
+change3
